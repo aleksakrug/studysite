@@ -1,0 +1,26 @@
+body
+{
+    background-color: aqua ;
+}
+
+a
+{
+    background-color: snow;
+    text-decoration:hotpink;
+    padding: 20px;
+    color: hotpink;
+    margin: 0.1px;
+    border: darkviolet 4px double;
+    border-radius: 10px;
+}
+
+a:hover
+{
+    background-color: azure;
+    color: black;
+}
+
+img
+{
+    margin-top: 30px;
+}
